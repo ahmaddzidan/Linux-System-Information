@@ -41,13 +41,13 @@ Supports all modern Linux distributions and the [Windows Subsystem for Linux](ht
 ### wget
 
 ```bash
-wget https://raw.github.com/tdulcet/Linux-System-Information/master/info.sh -qO - | bash -s
+wget https://raw.github.com/ahmaddzidan/Linux-System-Information/master/info.sh -qO - | bash -s
 ```
 
 ### curl
 
 ```bash
-curl https://raw.github.com/tdulcet/Linux-System-Information/master/info.sh | bash -s
+curl https://raw.github.com/ahmaddzidan/Linux-System-Information/master/info.sh | bash -s
 ```
 
 ## Example Output
